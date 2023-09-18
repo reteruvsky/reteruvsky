@@ -1,5 +1,15 @@
-### Hi there 👋
+# Hi there 🇺🇦 ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+study)](https://git.io/typing-svg)
+
+- 🌱 I'm @reteruvsky, currently learn Java and Computer Science
+- 🤔 I’m looking for my first job as a Java developer
+- HomeWork Stack: GIT, Java OOP, Java Multithreading, Exceptions, I/O Streams, Collections, JUnit, Stream API, Generics, SQL, Spring Framework
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reteruvsky&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reteruvsky&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reteruvsky&theme=solarized_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reteruvsky&theme=solarized_dark)
 <!--
 **reteruvsky/reteruvsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
